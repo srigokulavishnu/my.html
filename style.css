@@ -1,0 +1,180 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.el{
+    display: inline;
+    padding-right: 150px;
+  
+    
+}
+li:hover{
+    color: red;
+}
+.helpdesk
+{
+    background-color: azure;
+    height: 50px;
+   display: inline-block;
+   width:1460px;
+   margin-left: 50px;
+   border-radius: 10px;
+   border-style: solid;
+   border-width: 2px;
+   border-color: blue;
+  
+    
+}
+ul{
+    padding-top:15px ;
+    text-align: center;
+  
+}
+a{
+    color:black;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: red;
+}
+
+
+.logo{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(97, 97, 99);
+    margin-top: 30px;
+    margin-left: 42px;
+    padding-left: 20px;
+  
+    width:1460px;
+    height:175px;
+    color: rgb(221, 220, 220);
+    display: flex;
+    justify-content: space-evenly ;
+  
+
+    
+}
+.ele{
+    display: inline;
+    color: aliceblue;
+    
+    margin:16px;
+     
+}
+
+.im{
+   display: inline-block;
+   width: 150;
+   height: 190;
+margin-left: 20px;
+margin-right: 100px;
+
+
+   
+
+ 
+   margin-left: 30px;
+}
+
+h3{
+    display: inline;
+    color: red;
+}
+p{
+    display:inline;
+}
+.nvbar{
+    background-color: rgb(134, 173, 223);
+    width:1600px;
+    height:50px;
+    margin-top: 50px;
+    border-style:dotted;
+    border-radius: 10px; 
+    border-width: 2px;
+    border-color: rgb(49, 28, 2);
+    
+}
+.input{
+    margin-top: 30px;
+    width:1000px;
+    border-width: 4px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:rgb(164, 162, 162) ;
+   margin-left: 330px;
+
+    
+
+    
+}
+.destination{
+    margin-left: 280px;
+    margin-top: 25px;
+    width: 1100px;
+    border-radius: 10px;
+    border-color: rgb(208, 120, 12);
+    border-style: dashed;
+    border-width: 5px;
+    height: 220px;
+    font-size: large;
+    
+    
+}
+.dest{
+    display: inline-block;
+
+   
+}
+.places{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    border: solid 2px rgb(174, 172, 172)  ;
+    border-radius: 5px;
+    height:250px;
+    width:1400px;
+    margin-left: 70px;
+}
+.placeimg
+  {
+    flex-basis: 23%;
+    height:150px;
+    margin: 10px;
+  }  
+  .container{
+  
+   
+   margin-left:170px ;
+  }
+.head{
+    color: rgb(212, 20, 206);
+    border: 2px rgb(167, 166, 166) solid ;
+    border-radius: 10px;
+   margin-top: 30px;
+    width:1100px;
+    
+    height: 50px;
+    padding-left: ;
+}
+.buslist{
+    width:1100px;
+    border: 2px rgb(167, 166, 166) solid ;
+    border-radius: 10px;
+    
+}
+.bustype
+{
+    margin:20px;
+    border: 2px solid black ;
+    width:60%;
+    height: 200px;
+    border-radius:10px ;
+    padding-left: 30px;
+
+}
+
+
